@@ -1,0 +1,17 @@
+table {
+    margin: 0 auto;
+    width: 400px;
+}
+table, th, td {
+    border: 1px solid black;
+}
+table caption {
+    font-weight: bold;
+    font-style: italic;
+
+}
+th {
+    font-weight: bold;
+}
+.cidade {
+    font-style: italic;
