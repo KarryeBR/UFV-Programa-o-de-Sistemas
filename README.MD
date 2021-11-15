@@ -6,7 +6,9 @@
 
 Proposta:
 
-![](C:\Users\rahob\Documents\001 - PROGRAMAÇAO\UFV - PROGRAMAÇAO DE SISTEMAS\MODULO 4\Tabela Sul x Sudeste\Exercicio.png)
+```default
+![Alt text](/relative/path/to/img.jpg?raw=true "Exercicio.png")
+```
 
 #### Linguagens:
 
