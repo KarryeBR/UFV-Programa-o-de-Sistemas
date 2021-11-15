@@ -7,7 +7,7 @@
 Proposta:
 
 ```default
-![Alt text](/relative/path/to/img.jpg?raw=true "Exercicio.png")
+![Alt text](/relative/path/to/img.png?raw=true "Exercicio")
 ```
 
 #### Linguagens:
