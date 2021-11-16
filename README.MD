@@ -6,9 +6,7 @@
 
 Proposta:
 
-```default
-![Alt text](/relative/path/to/img.png?raw=true "Exercicio")
-```
+<img src="https://github.com/KarryeBR/UFV-Programa-o-de-Sistemas/blob/main/Exercicio.png" />
 
 #### Linguagens:
 
